@@ -15,3 +15,15 @@ audio conversion via a mobile app. With over
 (WHO), this project addresses a critical need for
 inclusivity while optimizing model efficiency and
 usability.
+
+<img width="1374" height="761" alt="image" src="https://github.com/user-attachments/assets/823dd6f2-212c-460b-ae2b-e91e54248789" />
+
+
+## PROBLEM STATEMENT
+To study and develop a solution for predicting the description of the
+images in real-time with good accuracy.
+To further modify the existing models on image description
+generation with new modifications to reduce the complexity and
+training time of the proposed model.
+To develop a native application for fetching the image description
+given the image.

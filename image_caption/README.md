@@ -4,7 +4,7 @@ This Streamlit app allows users to upload an image, and it automatically generat
 ## Features
 - Upload an image in formats such as JPG, JPEG, or PNG.
 - Generate a detailed caption describing the uploaded image.
-- The caption is generated using the **Gemini API** by Google.
+  
 
 ## Prerequisites
 Before running the app, ensure you have the following:

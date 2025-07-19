@@ -1,6 +1,7 @@
-Image Description Generator
-for Assisting Visually
-Impaired Individual
+<h1 align="center"><span>Image Description Generator</span></h1>
+<h3 align="center">for Assisting Visually Impaired Individual</h3>
+
+
 
 ## INTRODUCTION
 The "Image Description Generator for Assisting

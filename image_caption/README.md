@@ -10,7 +10,4 @@ This Streamlit app allows users to upload an image, and it automatically generat
 Before running the app, ensure you have the following:
 - Python 3.7 or later.
 - Streamlit installed.
-
-
-
-## https://github.com/Aditya190803/image_caption
+- Aditya190803/image_caption
